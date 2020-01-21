@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lending-app/precache-manifest.9e34a005dd0bb654395c3a194ed14866.js"
+  "/lending-app/precache-manifest.2b2192075ba63d8482f1605ffad664b0.js"
 );
 
 self.addEventListener('message', (event) => {

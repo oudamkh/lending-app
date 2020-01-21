@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/lending-app/WebLending/static/css/main.e11e8af0.chunk.css",
-    "main.js": "/lending-app/WebLending/static/js/main.12d9c430.chunk.js",
-    "main.js.map": "/lending-app/WebLending/static/js/main.12d9c430.chunk.js.map",
+    "main.js": "/lending-app/WebLending/static/js/main.062c935a.chunk.js",
+    "main.js.map": "/lending-app/WebLending/static/js/main.062c935a.chunk.js.map",
     "runtime-main.js": "/lending-app/WebLending/static/js/runtime-main.b198bd84.js",
     "runtime-main.js.map": "/lending-app/WebLending/static/js/runtime-main.b198bd84.js.map",
-    "WebLending/static/js/2.065cbc90.chunk.js": "/lending-app/WebLending/static/js/2.065cbc90.chunk.js",
-    "WebLending/static/js/2.065cbc90.chunk.js.map": "/lending-app/WebLending/static/js/2.065cbc90.chunk.js.map",
+    "WebLending/static/js/2.60a9db78.chunk.js": "/lending-app/WebLending/static/js/2.60a9db78.chunk.js",
+    "WebLending/static/js/2.60a9db78.chunk.js.map": "/lending-app/WebLending/static/js/2.60a9db78.chunk.js.map",
     "WebLending/static/css/main.e11e8af0.chunk.css.map": "/lending-app/WebLending/static/css/main.e11e8af0.chunk.css.map",
-    "WebLending/static/js/2.065cbc90.chunk.js.LICENSE": "/lending-app/WebLending/static/js/2.065cbc90.chunk.js.LICENSE",
+    "WebLending/static/js/2.60a9db78.chunk.js.LICENSE": "/lending-app/WebLending/static/js/2.60a9db78.chunk.js.LICENSE",
     "WebLending/static/media/stylesheet.css": "/lending-app/WebLending/static/media/Roboto-ThinItalic.feffec1c.woff2",
     "index.html": "/lending-app/index.html",
-    "precache-manifest.9e34a005dd0bb654395c3a194ed14866.js": "/lending-app/precache-manifest.9e34a005dd0bb654395c3a194ed14866.js",
+    "precache-manifest.2b2192075ba63d8482f1605ffad664b0.js": "/lending-app/precache-manifest.2b2192075ba63d8482f1605ffad664b0.js",
     "service-worker.js": "/lending-app/service-worker.js"
   },
   "entrypoints": [
     "WebLending/static/js/runtime-main.b198bd84.js",
-    "WebLending/static/js/2.065cbc90.chunk.js",
+    "WebLending/static/js/2.60a9db78.chunk.js",
     "WebLending/static/css/main.e11e8af0.chunk.css",
-    "WebLending/static/js/main.12d9c430.chunk.js"
+    "WebLending/static/js/main.062c935a.chunk.js"
   ]
 }
