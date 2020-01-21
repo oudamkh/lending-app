@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lending-app/WebLending/static/css/main.e11e8af0.chunk.css",
+    "main.js": "/lending-app/WebLending/static/js/main.e4a2908c.chunk.js",
+    "main.js.map": "/lending-app/WebLending/static/js/main.e4a2908c.chunk.js.map",
+    "runtime-main.js": "/lending-app/WebLending/static/js/runtime-main.b198bd84.js",
+    "runtime-main.js.map": "/lending-app/WebLending/static/js/runtime-main.b198bd84.js.map",
+    "WebLending/static/js/2.065cbc90.chunk.js": "/lending-app/WebLending/static/js/2.065cbc90.chunk.js",
+    "WebLending/static/js/2.065cbc90.chunk.js.map": "/lending-app/WebLending/static/js/2.065cbc90.chunk.js.map",
+    "WebLending/static/css/main.e11e8af0.chunk.css.map": "/lending-app/WebLending/static/css/main.e11e8af0.chunk.css.map",
+    "WebLending/static/js/2.065cbc90.chunk.js.LICENSE": "/lending-app/WebLending/static/js/2.065cbc90.chunk.js.LICENSE",
+    "WebLending/static/media/stylesheet.css": "/lending-app/WebLending/static/media/Roboto-ThinItalic.feffec1c.woff2",
+    "index.html": "/lending-app/index.html",
+    "precache-manifest.13f29b9a2ff42fe0ad49239e4a0e1161.js": "/lending-app/precache-manifest.13f29b9a2ff42fe0ad49239e4a0e1161.js",
+    "service-worker.js": "/lending-app/service-worker.js"
+  },
+  "entrypoints": [
+    "WebLending/static/js/runtime-main.b198bd84.js",
+    "WebLending/static/js/2.065cbc90.chunk.js",
+    "WebLending/static/css/main.e11e8af0.chunk.css",
+    "WebLending/static/js/main.e4a2908c.chunk.js"
+  ]
+}
