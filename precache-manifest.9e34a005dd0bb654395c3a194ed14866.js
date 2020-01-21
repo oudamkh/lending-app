@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "99ff611311b5271125aa",
+    "revision": "c4ea3cbd9744d64822a0",
     "url": "/lending-app/WebLending/static/css/main.e11e8af0.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lending-app/WebLending/static/js/2.065cbc90.chunk.js.LICENSE"
   },
   {
-    "revision": "99ff611311b5271125aa",
-    "url": "/lending-app/WebLending/static/js/main.fc61ef8e.chunk.js"
+    "revision": "c4ea3cbd9744d64822a0",
+    "url": "/lending-app/WebLending/static/js/main.12d9c430.chunk.js"
   },
   {
     "revision": "56e62167dcc8abd0fbec",
@@ -148,7 +148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lending-app/WebLending/static/media/Roboto-ThinItalic.feffec1c.woff2"
   },
   {
-    "revision": "e681026e2f8cfe2b2956b7c1a6f80958",
+    "revision": "78deb387b4b3fb1623b9132ba5bc31a0",
     "url": "/lending-app/index.html"
   }
 ]);
